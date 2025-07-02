@@ -16,5 +16,13 @@ KELOLA PENGGUNA ADMIN
 -----------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------
+DASHBOARD MAHASISWA
+![image](https://github.com/user-attachments/assets/95a0e3ff-8b21-4230-9e95-5d5106036566)
+PRAKTIKUM SAYA MAHASISWA
+![image](https://github.com/user-attachments/assets/689a70c1-c288-45b7-888d-bcc3fc5ef809)
+![image](https://github.com/user-attachments/assets/15ef8e8d-6020-45dd-8bed-7ea9fe89d523)
+CARI PRAKTIKUM MAHASISWA
+![image](https://github.com/user-attachments/assets/0c7539e6-0fba-45b1-aa8a-7ae7791f5511)
+
 
 
